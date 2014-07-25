@@ -1,3 +1,9 @@
+diamond (3.5-1~ui-git+2014-07-24-52bc5a45c1) trusty; urgency=low
+
+  * GIT snapshot
+
+ -- Juergen Hermann <jh@web.de>  Fri, 25 Jul 2014 13:55:40 +0200
+
 diamond (3.1.0) unstable; urgency=low
   * new upstream
  -- Rob Smith <kormoc@gmail.com>  Tue, 05 Nov 2012 15:19:00 -0800
